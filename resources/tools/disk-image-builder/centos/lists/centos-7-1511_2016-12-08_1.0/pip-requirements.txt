@@ -7,7 +7,7 @@ paramiko==1.16.0
 pycrypto==2.6.1
 pykwalify==1.5.0
 python-dateutil==2.4.2
-PyYAML==3.11
+PyYAML==5.4
 requests==2.9.1
 robotframework==2.9.2
 scapy==2.3.1
